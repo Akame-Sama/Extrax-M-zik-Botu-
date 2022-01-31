@@ -1,0 +1,17 @@
+{
+  "name": "dokanma",
+  "version": "3.1.0",
+  "description": "dokanma",
+  "main": "extrax.js",
+  "scripts": {
+    "start": "node extrax.js"
+  },
+  "dependencies": {
+    "aoi.js": "^4.6.0",
+    "yt-search": "^2.10.3"
+  },
+  "engines": {
+    "node": "16.6"
+  },
+  "license": "MIT"
+}
